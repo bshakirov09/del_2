@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "12679758882",
+    "firebase_url": "https://markets-dd430-default-rtdb.firebaseio.com",
+    "project_id": "markets-dd430",
+    "storage_bucket": "markets-dd430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12679758882:android:fd44228727ae948f29367b",
+        "android_client_info": {
+          "package_name": "com.smartersvision.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12679758882-3p6a7pdl46i0vjkotk5os2deeh1b6ga8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.markets",
+            "certificate_hash": "feeaab1c6828ee2261212c544c45f5ea6be1ad12"
+          }
+        },
+        {
+          "client_id": "12679758882-p356ure5dpd96u3675jsapveu7qsf05v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.markets",
+            "certificate_hash": "c2a7c23572452839b8758e6bf26c2842d973233b"
+          }
+        },
+        {
+          "client_id": "12679758882-5hqq90qc8hebn6pjcni6p1f2gstnqr9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc48UwKDv39D8Q5ObzqDJFV52YwYIpc80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12679758882-5hqq90qc8hebn6pjcni6p1f2gstnqr9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12679758882:android:1618085114e8256429367b",
+        "android_client_info": {
+          "package_name": "com.smartervision.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12679758882-fnr20gko356plgqd75np85q0aoko1gpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartervision.markets",
+            "certificate_hash": "feeaab1c6828ee2261212c544c45f5ea6be1ad12"
+          }
+        },
+        {
+          "client_id": "12679758882-5hqq90qc8hebn6pjcni6p1f2gstnqr9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc48UwKDv39D8Q5ObzqDJFV52YwYIpc80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12679758882-5hqq90qc8hebn6pjcni6p1f2gstnqr9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
